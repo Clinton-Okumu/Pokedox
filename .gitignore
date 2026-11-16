@@ -1,0 +1,10 @@
+# Binaries
+Pokedox
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
